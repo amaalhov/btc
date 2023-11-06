@@ -1,0 +1,21 @@
+{
+    "hero": {
+      "headline": "Unified Health Inventory Management System",
+      "subheadline": "Ensuring Availability of Medicines Across Botswana.",
+      "cta": "Get Started"
+    },
+    "about": {
+      "description": "The challenge of cross visibility of inventory in clinics, hospitals, and pharmacies has been a persistent issue. Our platform aims to ensure that medicines are always available, thereby reducing wastage, minimizing stock-outs, and improving health services."
+    },
+    "features": [
+      {
+        "title": "Real-time Inventory Management",
+        "description": "Dashboards displaying health inventory status, trends, and alerts."
+      },
+      {
+        "title": "Patient Interface",
+        "description": "Patients can load prescriptions and find nearby clinics/hospitals/pharmacies."
+      }
+    ]
+  }
+  
